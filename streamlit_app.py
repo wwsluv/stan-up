@@ -129,7 +129,7 @@ def generate_csv_files():
     # 團體資料
     group_data = {
         "group": ["bts", "svt", "zb1", "nmixx", "aespa", "TWS", "stray kids", "viviz", "enhypen", "boynextdoor", "illit", "babymonster", "izna"],
-        "出道日期": ["20130613", "20150526", "20230420", "20220222", "20201117", "20240122", "20180325", "20220209", "20201130", "20230530", "20240325", "20231127", "20241125"],
+        "出道日期": ["2013/06/13", "2015/05/26", "2023/04/20", "2022/02/22", "2020/11/17", "2024/01/22", "2018/03/25", "2022/02/09", "2020/11/30", "2023/05/30", "2024/03/25", "2023/11/27", "2024/11/25"],
         "出道曲": [
             "https://www.youtube.com/watch?v=gdZLi9oWNZg&list=PL1s89zMwwA_0KHFlD_PL5qVDptDaaC9Yh&index=8",
             "https://youtu.be/zEkg4GBQumc?si=K86G-awX2_8R2IH0",
